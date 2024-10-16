@@ -4069,7 +4069,7 @@ label {
     transition: all 0.5s ease;
   }
   .cs-nav .cs-nav_list .cs-mega_wrapper a:hover img {
-    border-color: rgba(255, 74, 23, 0.6);
+    /* border-color: rgba(255, 74, 23, 0.6); */
   }
   .cs-nav .cs-nav_list .cs-mega_wrapper > li {
     -webkit-box-flex: 1;
@@ -4093,8 +4093,8 @@ label {
     margin-bottom: 10px;
   }
   .cs-nav .cs-nav_list .cs-mega_menu:hover .cs-mega_wrapper li ul {
-    opacity: 1;
-    visibility: visible;
+    /* opacity: 1; */
+    /* visibility: visible; */
   }
   .cs-nav .cs-nav_list > li ul:not(.cs-mega_wrapper) .menu-item-has-children > a {
     position: relative;
